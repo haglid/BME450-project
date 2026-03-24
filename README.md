@@ -1,2 +1,2 @@
 # BME450-project
-Brain MRI Tumor Classification Using Deep Learning
+Brain MRI Tumor Classification Using Machine Learning
